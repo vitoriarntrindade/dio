@@ -1,0 +1,28 @@
+[
+  {
+    "nome": "Vitória",
+    "idade": 26,
+    "skills": ["python", "flask", "django"]
+  },
+  {
+    "nome": "Lucas",
+    "idade": 30,
+    "skills": ["java", "spring", "hibernate"]
+  },
+  {
+    "nome": "Ana",
+    "idade": 24,
+    "skills": ["javascript", "react", "node.js"]
+  },
+  {
+    "nome": "Pedro",
+    "idade": 28,
+    "skills": ["c#", ".net", "asp.net"]
+  },
+  {
+    "nome": "Mariana",
+    "idade": 29,
+    "skills": ["ruby", "rails", "sql"]
+  }
+]
+
